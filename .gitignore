@@ -1,3 +1,6 @@
+# Ignore in this repo
+*.jpg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -99,3 +102,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+haarcascade_eye.xml
+haarcascade_fullbody.xml
+haarcascade_lowerbody.xml
+haarcascade_profileface.xml
+haarcascade_upperbody.xml
